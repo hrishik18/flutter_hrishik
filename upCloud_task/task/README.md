@@ -17,17 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 Sample Screenshots
 
-    <table>
-        <tr>
-            <td> <img alt="img1" src = "../lib/images/img1.jpeg" ></img> </td>
-            <td> <img alt="img2" src = "../lib/images/img2.jpeg" ></img></td>
-        </tr>
-        <tr>
-            <td> <img alt="img5" src="../lib/images/img5.jpeg"></img></td>
-            <td> <img alt="img6" src="../lib/images/img6.jpeg"></img></td>
-        </tr>
-        <tr>
-            <td> <img alt="img3" src = "../lib/images/img3.jpeg" ></img></td>
-            <td> <img alt="img4" src = "../lib/images/img4.jpeg" ></img></td>
-        </tr>
-    </table>
+| :---        |    :----:   |          ---: |
+| ![](../lib/images/img1.jpeg)| ![](../lib/images/img2.jpeg)| ![](../lib/images/img3.jpeg)  |
+| ![](../lib/images/img4.jpeg)   | ![](../lib/images/img5.jpeg)        | ![](../lib/images/img6.jpeg)    |
